@@ -1,2 +1,2 @@
-# v12-guard-bot
-Discord v12 Gelişmiş Guard Bot Altyapısı
+# Discord v12 Guard / Log Botu
+Discord sunucularınızda kullanabileceğiniz v14 Guard / Log botu.
