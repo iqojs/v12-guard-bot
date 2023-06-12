@@ -1,0 +1,19 @@
+{
+
+    "Bot": {
+        "token": "token",
+        "owner": "kurucuid",
+        "server": "sunucuid",
+        "activity": "🔮 iqo was here.",
+        "botvoicejoinchannel": "seskanalid"
+    },
+
+    "Guard": {
+        "safezone": ["GüvenliKullanıcıID", "GüvenliKullanıcıID", "GüvenliKullanıcıID"],
+        "safebots": ["GüvenliBotID", "GüvenliBotID", "GüvenliBotID"],
+        "jail": "JailLogKanalID",
+        "booster": "BoosterRolID",
+        "log": "LogKanalID"
+    }
+    
+}
