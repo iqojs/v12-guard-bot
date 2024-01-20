@@ -1,5 +1,5 @@
 # Discord v12 Guard / Log Botu
-Discord sunucularınızda kullanabileceğiniz v14 Guard / Log botu.
+Discord sunucularınızda kullanabileceğiniz v12 Guard / Log botu.
 
 <div align="center">
 <h2>Discord</h2>
